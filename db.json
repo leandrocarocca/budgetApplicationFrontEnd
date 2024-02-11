@@ -1,0 +1,292 @@
+{
+  "incomes": [
+    {
+      "id": 0,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "Leandros lön",
+      "salaryBeforeTaxes": 40000,
+      "charityFactor": 0.1
+    },
+    {
+      "id": 1,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Emmas lön",
+      "salaryBeforeTaxes": 25700,
+      "charityFactor": 0.1
+    },
+    {
+      "userId": 1,
+      "budgetId": 3,
+      "description": "Testlön1",
+      "salaryBeforeTaxes": 30000,
+      "charityFactor": 0.1,
+      "id": 2
+    }
+  ],
+  "expenses": [
+    {
+      "id": 0,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "Spotify",
+      "dueDate": "2024-01-29",
+      "category": "Entertainment",
+      "amount": 119,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Autogiro"
+    },
+    {
+      "id": 1,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "Comviq mobilabonnemang",
+      "dueDate": "2024-01-29",
+      "category": "Mobile subscription",
+      "amount": 145,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 2,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "A-kassa",
+      "dueDate": "2024-01-29",
+      "category": "Insurance",
+      "amount": 132,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 3,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "LoveLinn",
+      "dueDate": "2024-01-29",
+      "category": "Other",
+      "amount": 100,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 4,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "Fickpengar",
+      "dueDate": "",
+      "category": "Other",
+      "amount": 2000,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Bank transfer"
+    },
+    {
+      "id": 6,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "Food",
+      "dueDate": "",
+      "category": "Nutrition",
+      "amount": 2000,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Bank transfer"
+    },
+    {
+      "id": 7,
+      "userId": 0,
+      "budgetId": 0,
+      "description": "Rent",
+      "dueDate": "2024-01-29",
+      "category": "Household expenses",
+      "amount": 8743,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Comviq mobilabonnemang",
+      "dueDate": "2024-01-29",
+      "category": "Mobile subscription",
+      "amount": 175,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Fickpengar",
+      "dueDate": "2024-01-29",
+      "category": "Other",
+      "amount": 2000,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Bank transfer"
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Tele2 Internet",
+      "dueDate": "2024-01-29",
+      "category": "Household expenses",
+      "amount": 199,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Vattenfall Elnät",
+      "dueDate": "2024-01-29",
+      "category": "Household expenses",
+      "amount": 177,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Telge Energi Elhandel",
+      "dueDate": "2024-01-29",
+      "category": "Household expenses",
+      "amount": 163,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Invoice"
+    },
+    {
+      "id": 14,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Gym",
+      "dueDate": "2024-01-29",
+      "category": "Health",
+      "amount": 349,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Autogiro"
+    },
+    {
+      "id": 15,
+      "userId": 1,
+      "budgetId": 0,
+      "description": "Trygghansa hemförsäkring",
+      "dueDate": "2024-01-29",
+      "category": "Insurance",
+      "amount": 344,
+      "paid": false,
+      "reminder": false,
+      "paymentMethod": "Autogiro"
+    },
+    {
+      "userId": 1,
+      "budgetId": 2,
+      "description": "Youtube premium",
+      "category": "Entertainment",
+      "dueDate": "29 januari 2024",
+      "amount": 129,
+      "reminder": false,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "budgetId": 2,
+      "description": "Prime membership",
+      "category": "Entertainment",
+      "dueDate": "20 jan 2024",
+      "amount": 49,
+      "reminder": false,
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "budgetId": 2,
+      "description": "Comviq ",
+      "category": "Mobile Subscription",
+      "dueDate": "21 jan 2024",
+      "amount": 224,
+      "reminder": false,
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "budgetId": 2,
+      "description": "Tv4 play",
+      "category": "Entertainment",
+      "dueDate": "29 jan 2021",
+      "amount": 349,
+      "reminder": false,
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "budgetId": 0,
+      "description": "SL kort ayoo",
+      "category": "Travel",
+      "dueDate": "29 feb 2024",
+      "amount": 700,
+      "reminder": false,
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "budgetId": 0,
+      "description": "SL kort Emma",
+      "category": "Travel",
+      "dueDate": "28 feb 2024",
+      "amount": 1000,
+      "reminder": false,
+      "id": 22
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "budgetIds": [
+        0
+      ],
+      "userName": "emma.carocca@hotmail.com",
+      "password": "dummy"
+    },
+    {
+      "id": 1,
+      "budgetIds": [
+        0,
+        2,
+        3
+      ],
+      "userName": "l",
+      "password": "d"
+    }
+  ],
+  "budgets": [
+    {
+      "id": 0,
+      "name": "Carocca Budget"
+    },
+    {
+      "name": "Leandros personliga budget",
+      "id": 2
+    },
+    {
+      "name": "Test budget",
+      "id": 3
+    }
+  ]
+}
